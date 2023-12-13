@@ -1,3 +1,1 @@
-# index
-
-https://kunyilockelin.github.io/index/
+# KunyiLockeLin.github.io
